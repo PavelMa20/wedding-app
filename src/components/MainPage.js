@@ -105,12 +105,12 @@ const MainPage = () => {
              </div>
             <div style={{ display: "flex", flexDirection: "row", alignItems: "baseline", columnGap: 40 }}>
               <div class="text-block-8">16:00</div>
-              <div class="text-block-8">Wine tasting</div>
+              <div class="text-block-8">Wine Tasting</div>
             </div>
             <div style={{ display: "flex", flexDirection: "row", alignItems: "baseline", columnGap: 40
            }}>
               <div class="text-block-8">18:00</div>
-              <div class="text-block-8">Wedding reception</div>
+              <div class="text-block-8">Wedding Ceremony</div>
             </div>
             <div style={{ display: "flex", flexDirection: "row", alignItems: "baseline", columnGap: 40 }}>
               <div class="text-block-8">19:00</div>
