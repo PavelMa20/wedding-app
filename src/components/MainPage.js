@@ -100,11 +100,11 @@ const MainPage = () => {
           <div class="text-block-1" style={{ paddingBottom: 5 }}>EVENT PROGRAM</div>
           <div style={{ display: "flex", flexDirection: "column", alignItems: "baseline", paddingLeft:25 }}>
             <div style={{ display: "flex", flexDirection: "row", alignItems: "baseline", columnGap: 40 }}>
-            <div class="text-block-8">15:00</div>     
+            <div class="text-block-8">16:00</div>     
              <div class="text-block-8">Reception</div>
              </div>
             <div style={{ display: "flex", flexDirection: "row", alignItems: "baseline", columnGap: 40 }}>
-              <div class="text-block-8">16:00</div>
+              <div class="text-block-8">16:20</div>
               <div class="text-block-8">Wine Tasting</div>
             </div>
             <div style={{ display: "flex", flexDirection: "row", alignItems: "baseline", columnGap: 40
